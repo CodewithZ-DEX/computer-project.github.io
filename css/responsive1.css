@@ -1,0 +1,44 @@
+@media only screen and (max-width:1080px){
+.projects{
+    flex-direction: column;
+}
+.card-img{
+width: 45vw;
+}
+.card{
+    width: 45vw;
+}
+}
+@media only screen and (max-width:900px){
+    .navbar{
+        flex-direction: column;
+    }
+    .content{
+        display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+    }
+    .logo img{
+        height: 7vw;
+    }
+
+}
+@media only screen and (max-width:600px){
+    .version{
+        display: none;
+    }
+    .content{
+        padding: 70px 0px;
+    }
+    .logo img{
+        height: 10vw;
+    }
+    .card-img{
+        width: 70vw;
+    }
+    .card{
+        width: 70vw;
+        padding: 8px 3px;
+    }
+}

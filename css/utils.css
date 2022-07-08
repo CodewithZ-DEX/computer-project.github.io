@@ -1,0 +1,42 @@
+.flex{
+    display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.align-center{
+    align-items: center;
+}
+.logo img{
+
+    height: 5vw;
+margin: 8px;
+border-radius: 15px;
+}
+.text-center{
+    text-align: center;
+}
+
+.card{
+  
+    margin: 23px auto;
+
+border: 2px solid gray;
+border-radius: 8px;
+padding: 8px;
+
+}
+.btn-link{
+    background: blue;
+border-radius: 7px;
+color: white;
+padding: 2px 6px;
+text-align: center;
+margin: 5px 0px
+}
+.justify-center{
+    justify-content: center;
+}
+.sub-contentq{
+    color: black;
+}

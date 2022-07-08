@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&display=swap');
+.navcontent{
+    background-image: url(../imgs/explosion-g458ef52cd_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+  
+}
+.navcontent2{
+    background-image: url(../imgs/apocalypse-2273069.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.navcontent3{
+    background-image: url(../imgs/money-2696219_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.navcontent4{
+    background-image: url(../imgs/mathematics-6950767_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+ 
+}
+.navcontent5{
+    background-image: url(../imgs/plane-7264804_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+ 
+}
+.navcontent6{
+    background-image: url(../imgs/ribblehead-viaduct-2443085_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.navcontent7{
+  background-image: url(../imgs/lighthouse-7296029_1920.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.project-content{
+    margin: 19px 30px;
+padding: 15px;
+}
+
+.content{
+    padding: 100px 101px;
+    color: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"baloo Bhaina 2", cursive;
+  
+
+}
+
+.logo{
+
+}
+.card{
+  width: 18rem;
+}
+.card-img{
+    border-radius: 3px;
+
+width: 27vw;
+}
+a{
+    color:white;
+    text-decoration: none;
+    margin:0px 8px;
+}
+.navbar{
+background-color: black;
+opacity: 0.5;
+z-index: 5;
+
+}
+ul.flex li{
+    list-style: none;
+}
+.sub-content{
+    width: 46vw;
+}
+.card-title{
+font-weight: bold;
+font-size: medium;
+
+}
+footer{
+    height: 12vh;
+   display: flex;
+   align-items: center;
+    justify-content: center;
+}
+.shadow-lg{
+    box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+}
+a:hover{
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 9px;
+  border:2px solid black;
+}
